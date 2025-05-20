@@ -1,0 +1,16 @@
+2025-04-21 17:12:58,475 - INFO - Train Capacity (AW3): 900 passengers
+2025-04-21 17:12:58,475 - INFO - Yearly Headways in minutes: {'2030': 7.95, '2035': 6.36, '2045': 4.5, '2055': 3.74} 
+2025-04-21 17:12:58,475 - INFO - Train Requirements: {'2030': 10, '2035': 13, '2045': 18, '2055': 22} Trainset required
+2025-04-21 17:12:58,475 - INFO - Total Train Weight: 199.6 tons
+2025-04-21 17:12:58,475 - INFO - Axle Loads: {'DMC': 16.68, 'TC': 16.55} tons per axle
+2025-04-21 17:12:58,475 - INFO - Traction Energy in MW: {'2030': 3.68, '2035': 4.32, '2045': 5.65, '2055': 6.57} 
+2025-04-21 17:12:58,475 - INFO - Auxiliary Energy in MW: {'2030': 4.65, '2035': 4.65, '2045': 4.65, '2055': 4.65} 
+2025-04-21 17:12:58,475 - INFO - Total Energy in Million Units: {'2030': 43.84, '2035': 48.51, '2045': 58.22, '2055': 64.93} 
+2025-04-21 17:12:58,630 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,631 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,631 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,631 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,631 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,632 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,632 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-21 17:12:58,632 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

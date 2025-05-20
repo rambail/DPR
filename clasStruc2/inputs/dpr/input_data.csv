@@ -1,0 +1,12 @@
+Corridor,Corridor XI: JBS (New) - Shamirpet
+Year,2030,2035,2045,2055
+DailyRidership,192000,240134,316800,373700
+PHPDT,6790,8490,12000,14430
+Dmc,46,254,334
+Tc,56,244,324
+TrainComp,DMC,TC,DMC
+Parameters,36,22,3
+TareWeight,42,41.5,65
+TrPower,50,30,5,0.95,1
+AuxPower,300,14,2500,0,1000,0,5,0.95,0.5
+Working,20,365

@@ -1,0 +1,9 @@
+Corridor, Corridor X: JBS (New) - Medchal
+Year,2030,2035,2045,2055
+DailyRidership,254000,313200,471000,570100
+PHPDT,9540,11770,18300,22000
+Dmc,46,254,334
+Tc,56,244,324
+TrainComp,DMC,TC,DMC
+Parameters,36,24.5,3
+TareWeight,42,41.5,65
